@@ -10,7 +10,6 @@ I am a tech lead at [Sieraj](https://github.com/Sieraj), a digital agency in Cai
 
 - 🚀 Leading the engineering of [Ideoz](https://ideoz.ai), an agentic AI platform that turns a founder's idea into a working prototype
 - 🧩 Building small, focused TypeScript tools for AI chat interfaces in the open (first release coming soon)
-- 📚 Studying software architecture, RAG and AI agents
 
 ### Tech stack
 
