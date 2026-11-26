@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Hossam 👋
 
-<!--
-**HossamJS/HossamJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a tech lead at [Sieraj](https://github.com/Sieraj), a digital agency in Cairo. I have 12 years of experience building web applications across the full stack.
 
-Here are some ideas to get you started:
+**What I do**
+- Lead the engineering of [Ideoz](https://ideoz.ai), an agentic AI platform that turns a founder's idea into a working prototype
+- Build with Angular, React, NestJS, .NET and PostgreSQL
+- Study software architecture, RAG and AI agents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I am building in the open**
+- Small, focused TypeScript tools for AI chat interfaces (first release coming soon)
+
+**Contact:** [LinkedIn](https://www.linkedin.com/in/hossam-m-rashwan/)
